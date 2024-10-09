@@ -4,4 +4,5 @@ repo = "git@github.com:woodrufflab/woodrufflabjuliaregistry.git"
 description = "Julia Package Registry for the Woodruff lab at EmoryU"
 
 [packages]
+20296499-4daa-4357-ae8d-ba6e76525725 = { name = "DigitalSlideArchive", path = "D/DigitalSlideArchive" }
 fa55229f-fc38-4ae7-a60b-3e25499b4d54 = { name = "CosmxUtils", path = "C/CosmxUtils" }

@@ -1,0 +1,3 @@
+name = "DigitalSlideArchive"
+uuid = "20296499-4daa-4357-ae8d-ba6e76525725"
+repo = "git@github.com:woodrufflab/DigitalSlideArchive.jl"
