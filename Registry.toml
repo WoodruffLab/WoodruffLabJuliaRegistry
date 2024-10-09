@@ -1,0 +1,6 @@
+name = "WoodruffLabJuliaRegistry"
+uuid = "fad3e89e-7a50-4d94-ade8-ad8a9a1b4534"
+repo = "git@github.com:woodrufflab/woodrufflabjuliaregistry.git"
+description = "Julia Package Registry for the Woodruff lab at EmoryU"
+
+[packages]
