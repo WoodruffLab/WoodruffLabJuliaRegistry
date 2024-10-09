@@ -1,0 +1,3 @@
+name = "CosmxUtils"
+uuid = "fa55229f-fc38-4ae7-a60b-3e25499b4d54"
+repo = "git@github.com:woodrufflab/CosmxUtils.jl"
