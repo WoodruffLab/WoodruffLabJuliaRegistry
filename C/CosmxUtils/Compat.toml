@@ -7,3 +7,9 @@ GeoInterface = "1.3.7 - 1"
 GeoJSON = "0.8.1 - 0.8"
 OrderedCollections = "1.6.3 - 1"
 YAML = "0.4.12 - 0.4"
+
+["0.3.2 - 0"]
+BlockArrays = "1.1.1 - 1"
+FlexiJoins = "0.1.34 - 0.1"
+MappedArrays = "0.4.2 - 0.4"
+MultiChannelColors = "0.1.3 - 0.1"
